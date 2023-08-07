@@ -4,6 +4,7 @@ but now in [GForth](https://gforth.org/) using XTerm (or similar) with Unicode.
 You also need
 [semigraphics](https://github.com/mobluse/semigraphics). How to install and run in Linux:
 
+    sudo apt install gforth
     git clone https://github.com/mobluse/semigraphics
     git clone https://github.com/mobluse/convoy-bomb
     cd convoy-bomb
