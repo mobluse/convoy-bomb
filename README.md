@@ -1,7 +1,7 @@
 # Convoy Bomb
 Convoy Bomb is a game originally for ZX81 in [ZX FORTH by Artic](http://www.zx81stuff.org.uk/zx81/tape/ZXForth),
-but now in [GForth](https://gforth.org/) using XTerm (or similar) with Unicode. You also need semigraphics.
-How to install and run in Linux:
+but now in [GForth](https://gforth.org/) using XTerm (or similar) with Unicode. You also need
+[semigraphics](https://github.com/mobluse/semigraphics). How to install and run in Linux:
 
     git clone https://github.com/mobluse/semigraphics
     git clone https://github.com/mobluse/convoy-bomb
