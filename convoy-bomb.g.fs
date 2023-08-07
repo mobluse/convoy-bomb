@@ -46,13 +46,15 @@ VARIABLE XF  VARIABLE YF
   REKONSTRUERAD & OPTIMERAD 2023-08-07.)
 VARIABLE XS  VARIABLE YS
 : SKEPP YS @ 5 + XS @ 11 + PLOT
-  YS @ 4 + XS @ 9 + PLOT YS @ 3 + XS @ 9 + PLOT
+        YS @ 4 + XS @ 9 + PLOT
+        YS @ 3 + XS @ 9 + PLOT
 \ -->
 
 ( CONVOY BOMB SCR 3     1983-05-07)
 ( SKEPP DEF. FORTS. >> )
-  YS @ XS @ 3 + PLOT YS @ 1+ XS @ 2 + PLOT
-  YS @ 2 + XS @ PLOT ;
+        YS @ 2 + XS @ PLOT
+        YS @ 1+ XS @ 2 + PLOT
+        YS @ XS @ 3 + PLOT ;
 
 : FLYT -1 XS +! SKEPP YS @ 5 + XS @ 12 + UNPLOT
   YS @ 4 + XS @ 13 + UNPLOT YS @ 3 + XS @ 13 + UNPLOT
