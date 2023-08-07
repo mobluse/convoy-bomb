@@ -7,6 +7,7 @@ but now in GForth using XTerm (or similar) with Unicode. You also need semigraph
     cd convoy-bomb
     gforth convoy-bomb.g.fs
     convoy-bomb
+    show-cur ( if you terminate using Ctrl+C )
 
 Convoy Bomb is in Swedish; both instructions and code. Use without Caps Lock or Shift.
 B drops a bomb. N/L means New Line i.e. Enter. ZX81 does not have ÅÄÖ, but I used 0 for Ö, but in the
