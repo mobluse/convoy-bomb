@@ -14,7 +14,8 @@ You also need
     bye
 
 Convoy Bomb is in Swedish; both instructions and code. Use without Caps Lock or Shift.
-B drops a bomb. N/L means New Line i.e. Enter AKA Return. ZX81 does not have ÅÄÖ, but I used 0 for Ö on ZX81,
-but in the GForth version I now use ÅÄÖ in the text.
+B drops a bomb. N/L means New Line i.e. Enter AKA Return. ZX81 does not have ÅÄÖ,
+but I used 0 for Ö on ZX81 (0 looks like Ø (Danish Ö) on ZX81),
+but in the GForth version I now use ÅÄÖ in the text and comments.
 
 ![Convoy Bomb](2023-08-07-062013_623x847_scrot.png)
